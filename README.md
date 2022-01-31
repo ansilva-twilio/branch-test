@@ -1,1 +1,1 @@
-This is a damn freaking test
+This is just a test
